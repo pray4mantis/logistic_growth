@@ -17,13 +17,21 @@ r <- 4.964e-03 #
   
 K <- 4.998e+09 #
 
-ggplot(aes(t,N), data = growth_data) +
+curve <- ggplot(aes(t,N), data = growth_data) +
   
   geom_function(fun=logistic_fun, colour="red") +
   
   geom_point()
 
   #scale_y_continuous(trans='log10')
+
+curve
+
+#Save graph
+ggsave(filename = "growth_curve.png",
+       plot = g,
+       height = 10.5, width = 14.8,
+       units = "cm")
 
 #Save package versions
 sink(file = "package-versions.txt")
