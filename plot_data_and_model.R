@@ -29,7 +29,7 @@ curve
 
 #Save graph
 ggsave(filename = "growth_curve.png",
-       plot = g,
+       plot = curve,
        height = 10.5, width = 14.8,
        units = "cm")
 
