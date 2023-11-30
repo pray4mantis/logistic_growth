@@ -12,4 +12,3 @@ r = 4.964e-03
 K = 4.998e+09
 
 and this is the growth curve plotted using these parameters
-
