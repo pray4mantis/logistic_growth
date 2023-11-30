@@ -11,4 +11,8 @@ r = 4.964e-03
   
 K = 4.998e+09
 
+<<<<<<< HEAD
 and this is the growth curve plotted using these parameters
+=======
+and this is the growth curve plotted using these parameters
+>>>>>>> 23a0929264702a263a1290d9e3298ddb78a6b544
