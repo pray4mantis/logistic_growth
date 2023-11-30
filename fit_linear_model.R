@@ -23,3 +23,4 @@ data_subset2 <- growth_data %>% filter(t>4000)
 #The intercept shows you an estimate of K
 model2 <- lm(N ~ 1, data_subset2)
 summary(model2)
+
