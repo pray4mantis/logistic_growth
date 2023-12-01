@@ -12,6 +12,9 @@ I used the data from experiment 3. My estimates for the growth parameters were a
 
 -   K = 4.998e+09
 
+And this is the growth curve plotted by these parameters:
+
+
 [Estimating population size at t = 4980 min, assuming exponential population growth:]{.underline}
 
 Equation for exponential growth, N = N0 \* exp(r \* t)
@@ -25,3 +28,5 @@ N = 2.791e+14
 The population size at t = 4980 predicted under logistic growth is 4997910511 (4.997e+09) (calculated with the logistic function created) which is much smaller than the population size predicted under exponential growth. This is because in logistic growth, the growth rate slows down from the initial exponential growth rate.
 
 [Comparing logistic and exponential growth curves:]{.underline}
+
+I created a graph comparing the precited growth curves under logistic and exponential growth
