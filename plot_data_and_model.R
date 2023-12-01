@@ -38,3 +38,4 @@ sink(file = "package-versions.txt")
 sessionInfo()
 sink()
 
+logistic_fun(4980)
