@@ -13,6 +13,8 @@ I used the data from experiment 3. My estimates for the growth parameters were a
 -   K = 4.998e+09
 
 And this is the growth curve plotted by these parameters:
+![image](https://github.com/pray4mantis/logistic_growth/assets/151776528/14b0da39-00b0-478c-ad91-b527835c9ae8)
+
 
 **Estimating population size at t = 4980 min, assuming exponential population growth:**
 
