@@ -29,3 +29,4 @@ The population size at t = 4980 predicted under logistic growth is 4997910511 (4
 **Comparing logistic and exponential growth curves:**
 
 I created a graph comparing the predicted growth curves under logistic and exponential growth
+![image](https://github.com/pray4mantis/logistic_growth/assets/151776528/d1abae11-d442-4435-8b18-1ed3cdfca4f3)
